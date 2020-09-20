@@ -1,0 +1,6 @@
+export const homeUrl = '/proc/home'
+export const strategyUrl = '/proc/glpage2'
+export const gameUrl = '/proc/djhome'
+export const originalUrl = '/proc/orignewhome'
+export const standAloneUrl = '/proc/glspecial'
+export const seriesGameUrl = '/proc/glspecialsel'
